@@ -17,7 +17,7 @@ My name is Zoë Klapman. I'm a senior CS major at Monmouth University where I co
 | [Computer Vision Face Recognition](https://github.com/zoeklapman/FaceRecognition) |         |      |
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/zoeklapman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/zo%C3%AB-klapman-50962a1b8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="http://www.zoedotdot.com/" target="_blank"><img alt="Zoedotdot" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>
+<p><a href="https://github.com/zoeklapman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/zo%C3%AB-klapman-50962a1b8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="http://www.zoedotdot.com/" target="_blank"><img alt="Zoedotdot" src="https://img.shields.io/badge/zoedotdot-%2312100E.svg?&style=for-the-badge&logo=zoedotdot&logoColor=white" /></a>
 </p>
 
 <!--
