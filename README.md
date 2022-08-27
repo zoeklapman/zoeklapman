@@ -3,7 +3,7 @@
 My name is Zoë Klapman. I'm a senior CS major at Monmouth University where I compete on the D1 Women's Tennis Team. 🎾 On breaks from school in New Jersey, I reside at home in San Jose with my two dogs. 🐕‍🦺🐕
 
 ## Languages
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white), Swift, C++, Python, Objective-C, MySQL, Ruby, Perl, HTML, CSS
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-blue?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=java&logoColor=white) ![Objective-C](https://img.shields.io/badge/-Objective-C-blue?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=java&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-blue?style=flat-square&logo=java&logoColor=white) ![Perl](https://img.shields.io/badge/-Perl-blue?style=flat-square&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=java&logoColor=white)
 
 ## Frameworks
 MVC and MVP Design Patterns, Test-Driven Development, Multithreading, Memory Leaks, Apple Vision, Fuzzy Matching, Core Graphics, Version Control
