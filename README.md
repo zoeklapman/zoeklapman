@@ -1,11 +1,11 @@
-### Hi! Welcome to my GitHub.😋
+# Hi! Welcome to my GitHub.😋
 
 My name is Zoë Klapman. I'm a senior CS major at Monmouth University where I compete on the D1 Women's Tennis Team. 🎾 On breaks from school in New Jersey, I reside at home in San Jose with my two dogs. 🐕‍🦺🐕
 
 ## Languages
-Java, Swift, C++, Python, Objective-C, MySQL, Ruby, Perl, HTML, CSS
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white), Swift, C++, Python, Objective-C, MySQL, Ruby, Perl, HTML, CSS
 
-## 
+## Frameworks
 MVC and MVP Design Patterns, Test-Driven Development, Multithreading, Memory Leaks, Apple Vision, Fuzzy Matching, Core Graphics, Version Control
 
 ## Open Source Projects
