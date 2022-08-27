@@ -11,7 +11,7 @@ MVC and MVP Design Patterns, Test-Driven Development, Multithreading, Memory Lea
 ## Open Source Projects
 
 | Projects                         | Version |      |
-| -------------------------------- | ------- | ---- |
+| -------------------------------- | :-------: | :----: |
 | [FoodPlusYou](https://github.com/zoeklapman/FoodPlusYou_1.0)                      |         |      |
 | [First iOS Mobile App](https://github.com/zoeklapman/NJSchools_2.0)            |  [2.0](https://github.com/zoeklapman/NJSchools_2.0)    | [1.0](https://github.com/zoeklapman/NJSchools_1.0)  |
 | [Computer Vision Face Recognition](https://github.com/zoeklapman/FaceRecognition) |         |      |
