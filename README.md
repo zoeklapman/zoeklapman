@@ -1,5 +1,7 @@
 # Hi! Welcome to my GitHub.😋
 
+## About Me, Zoë Klapman (she/her)
+
 My name is Zoë Klapman. I am just starting my career in tech in Silicon Valley. I recently graduated summa cum laude from Monmouth University, where I earned a BS in computer science and played D1 women's tennis.
 
 During my college life, I was a student athlete where I worked in a balance of academic and athletics. Being an athlete was a full-time job, where my days were full of practice, lift, and traveling for matches. Now as a retired athlete, that time is replaced with my official full-time job as a software engineer.
