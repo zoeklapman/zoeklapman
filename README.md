@@ -7,7 +7,7 @@ Hi! I’m Zoë — an iOS engineer who loves building polished, reliable mobile 
 I enjoy tech because it’s creative, fast-moving, and gives me the chance to build things that actually help people. After work, I like exploring new ideas, experimenting with AI in my workflows, and tinkering with side projects that spark my curiosity. You’ll find some of those open-source projects here on GitHub, and more on my website, <a href="http://www.zoedotdot.com/" target="_blank">Zoedotdot</a>.
 
 I’m a proud nerd and dog lover — my King Charles Cavalier Spaniel is named **Bash**. He is my daily reminder to stay grounded, take real breaks, and enjoy the small things. He’s truly the best coworker.
-![Bash](./assets/bash.png)
+![Bash](./bash_profile.png)
 
 ## Languages
 ![Swift](https://img.shields.io/badge/-Swift-blue?style=flat-square&logo=java&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?style=flat-square&logo=java&logoColor=white) ![UIKit](https://img.shields.io/badge/-UIKit-blue?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=java&logoColor=white) ![Objective-C](https://img.shields.io/badge/-Objective--C-blue?style=flat-square&logo=java&logoColor=white) ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=java&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=java&logoColor=white)
