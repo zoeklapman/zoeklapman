@@ -1,4 +1,3 @@
-![bash_profile](https://github.com/user-attachments/assets/17847500-6eb9-48fc-b4cd-3ddf16a90ac7)
 # Hi! Welcome to my GitHub.😋
 
 ## About Me, Zoë Klapman (she/her)
